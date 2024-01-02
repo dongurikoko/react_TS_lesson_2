@@ -1,10 +1,3 @@
-# Corona Trackerアプリ（React / TypeScript）
-「はじめてさわるReact & JavaScript with TypeScript」
+`npm install react-router-dom`でページを生成するためのパッケージインストール
 
-React version 18, react-router-dom version 6
-
-第6章完了時点のソースコードです。
-
-アプリを起動するには、ファイルをダウンロード後にターミナルで`npm install`を実行し、必要なパッケージをダウンロードする必要があります。
-
-（2023年5月版）
+参考図書:はじめてさわるReact & JavaScript with TypeScript
